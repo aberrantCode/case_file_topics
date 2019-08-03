@@ -1,3 +1,4 @@
-EventProcessorAddin/.vs
-EventProcessorAddin/EventProcessorAddin/obj
-EventProcessorAddin/EventProcessorAddin/bin
+.vs/
+EventProcessorAddin/obj
+EventProcessorAddin/bin
+packages/
